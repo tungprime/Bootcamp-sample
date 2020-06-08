@@ -1,2 +1,4 @@
 # Bootcamp-sample
-Sample bootcamp
+Sample bootcamp 
+
+This is a sample project for github. 
