@@ -17,3 +17,5 @@ Comments in HTML are like this!
 # SECTION NAME
 
 Write your blog post here. Here is how I test it. 
+
+Should write on this file or the html file. 
